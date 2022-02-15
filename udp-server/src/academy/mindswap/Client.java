@@ -17,6 +17,7 @@ public class Client {
         // CREATE A DATAGRAM PACKET AND SEND IT FROM THE SOCKET
         byte[] message = "Hello World this is another message".getBytes();
 
+        //comment
 
 
         //reads a string from console
