@@ -1,5 +1,7 @@
 package academy.mindswap;
 
+import java.util.List;
+
 public class MaximumAndMinimum {
 
     public int min(int[] list) {
@@ -12,6 +14,8 @@ public class MaximumAndMinimum {
 
     public static void main(String[] args) {
 
+        List <Integer>= {1,10,56,90};
+        System.out.println(doubleCha);
     }
 }
 
